@@ -13,6 +13,11 @@
     "react-router-dom": "^6.0.2",
     "swr": "^1.1.0"
   },
+
+  "engines" : { 
+    "node" : ">=16.0.0 <17.0.0"
+  },
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
