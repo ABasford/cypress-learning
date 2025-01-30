@@ -1,0 +1,202 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 456,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "eBd08nr5J8wC",
+        "etag": "lCK0bnv7W8g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/eBd08nr5J8wC",
+        "volumeInfo": {
+          "title": "Book one",
+          "authors": [
+            "Douglas Adams"
+          ],
+          "publisher": "Pan Macmillan",
+          "publishedDate": "2009-09-01",
+          "description": "'One of the world's sanest, smartest, kindest, funniest voices' - Independent on Sunday This 42nd Anniversary Edition includes exclusive bonus material from the Douglas Adams archives, and an introduction by Dirk Maggs, co-producer of BBC Radio 4's The Hitchhiker's Guide to the Galaxy Tertiary, Quandary and Quintessential Phases. ***** Mostly Harmless is the fifth and final part in Douglas Adams' much-loved cult classic series, The Hitchhiker's Guide to the Galaxy. Arthur Dent hadn't had a day as bad as this since the Earth had been blown up. After years of galactic wanderings, Arthur finally settles on the small planet Lamuella and becomes a sandwich maker. Looking forward to a quiet life, his plans are thrown awry by the unexpected arrival of his daughter. There's nothing worse than a frustrated teenager with a copy of The Hitchhiker's Guide to the Galaxy in their hands. When she runs away, Arthur goes after her determined to save her from the horrors of the universe. After all – he's encountered most of them before . . . ***** Praise for Douglas Adams: 'A pleasure to read' - New York Times 'Magical . . . read this book' - Sunday Express 'Sheer delight' - The Times",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780330513203"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0330513206"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 273,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "5.12.11.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=eBd08nr5J8wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=eBd08nr5J8wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.uk/books?id=eBd08nr5J8wC&printsec=frontcover&dq=inauthor:Douglas+Adams&hl=&as_brr=5&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=eBd08nr5J8wC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eBd08nr5J8wC"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 5.99,
+            "currencyCode": "GBP"
+          },
+          "retailPrice": {
+            "amount": 5.99,
+            "currencyCode": "GBP"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=eBd08nr5J8wC&rdid=book-eBd08nr5J8wC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 5990000,
+                "currencyCode": "GBP"
+              },
+              "retailPrice": {
+                "amountInMicros": 5990000,
+                "currencyCode": "GBP"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.uk/books/download/Mostly_Harmless-sample-epub.acsm?id=eBd08nr5J8wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=eBd08nr5J8wC&hl=&as_brr=5&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "&#39;One of the world&#39;s sanest, smartest, kindest, funniest voices&#39; - Independent on Sunday This 42nd Anniversary Edition includes exclusive bonus material from the Douglas Adams archives, and an introduction by Dirk Maggs, co-producer of BBC ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "6Fua0TP4N44C",
+        "etag": "BGiWRpotYiU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/6Fua0TP4N44C",
+        "volumeInfo": {
+          "title": "Book two",
+          "authors": [
+            "Douglas Adams"
+          ],
+          "publisher": "Pan Macmillan",
+          "publishedDate": "2011-06-01",
+          "description": "The second Dirk Gently book by Douglas Adams, The Long Dark Tea-Time of the Soul is a witty detective story perfect for fans of his phenomenally successful The Hitchhiker's Guide to the Galaxy. When a passenger check-in desk at Terminal Two, Heathrow Airport, shot up through the roof engulfed in a ball of orange flame, the usual people tried to claim responsibility. First the IRA, then the PLO and the Gas Board. Even British Nuclear Fuels rushed out a statement to the effect that the situation was completely under control, that it was a one in a million chance, that there was hardly any radioactive leakage at all and that the site of the explosion would make a nice location for a day out with the kids and a picnic, before finally having to admit that it wasn't actually anything to do with them at all. No rational cause could be found for the explosion – it was simply designated an act of God. But, thinks Dirk Gently, which God? And why? What God would be hanging around Terminal Two of Heathrow Airport trying to catch the 15:37 to Oslo? 'A thumping good detective-ghost-horror-who dunnit-time travel-romantic-musical-comedy-epic' - Douglas Adams, on Dirk Gently's Holistic Detective Agency. Continue this surreal series with the unfinished The Salmon of Doubt.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780330525060"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0330525069"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 229,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.10.11.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=6Fua0TP4N44C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=6Fua0TP4N44C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.co.uk/books?id=6Fua0TP4N44C&printsec=frontcover&dq=inauthor:Douglas+Adams&hl=&as_brr=5&cd=18&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=6Fua0TP4N44C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6Fua0TP4N44C"
+        },
+        "saleInfo": {
+          "country": "GB",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 5.99,
+            "currencyCode": "GBP"
+          },
+          "retailPrice": {
+            "amount": 5.99,
+            "currencyCode": "GBP"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=6Fua0TP4N44C&rdid=book-6Fua0TP4N44C&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 5990000,
+                "currencyCode": "GBP"
+              },
+              "retailPrice": {
+                "amountInMicros": 5990000,
+                "currencyCode": "GBP"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "GB",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=6Fua0TP4N44C&hl=&as_brr=5&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "&#39;A thumping good detective-ghost-horror-who dunnit-time travel-romantic-musical-comedy-epic&#39; - Douglas Adams, on Dirk Gently&#39;s Holistic Detective Agency. Continue this surreal series with the unfinished The Salmon of Doubt."
+        }
+      }
+    ]
+  }
+  
